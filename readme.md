@@ -10,6 +10,8 @@ I found the scripting way of the Triangle Generator a little hard, especially fo
 
 In the middle of making specifically the Triangle Generator UI, I thought of adding more features other than triangle generator into this. So I called it BBSMenu.
 
+[release](https://github.com/UGEcko/BlenderBSMenu/releases) :)
+
 ### Features:
 
 [WobbleOrange Triangle Generator](https://discord.com/channels/841467564089147434/994980004431663134/994989319255232532), UI Based.
@@ -41,9 +43,6 @@ If you find anything that isnt working properly, please reach out to UG-Ecko#579
 
 If you want to add something to BBSMenu, please reach out to UG-Ecko#5794 on discord.
 
-I dont want to upload the script yet without full permission as I wasnt the one who made the actual script. Should be uploaded within 2 days... or NEVER.
-
-You can still check in [releases](https://github.com/UGEcko/BlenderBSMenu/releases) :)
 
 
 
