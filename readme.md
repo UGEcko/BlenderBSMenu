@@ -41,7 +41,7 @@ If you find anything that isnt working properly, please reach out to UG-Ecko#579
 
 If you want to add something to BBSMenu, please reach out to UG-Ecko#5794 on discord.
 
-If you are here really early after this repo has been made, chances are I havent gotten permission to upload the script yet.
+I dont want to upload the script yet without full permission as I wasnt the one who made the actual script. Should be uploaded within 2 days... or NEVER.
 
 You can still check in [releases](https://github.com/UGEcko/BlenderBSMenu/releases) :)
 
