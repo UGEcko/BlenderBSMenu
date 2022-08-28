@@ -41,7 +41,9 @@ If you find anything that isnt working properly, please reach out to UG-Ecko#579
 
 If you want to add something to BBSMenu, please reach out to UG-Ecko#5794 on discord.
 
+If you are here really early after this repo has been made, chances are I havent gotten permission to upload the script yet.
 
+You can still check in [releases]() :)
 
 
 
